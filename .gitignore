@@ -1,0 +1,4 @@
+# Project exclude paths
+/1_types.js
+/3_enum.js
+/4_function.js
